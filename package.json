@@ -2,7 +2,7 @@
   "name": "spc-noaa-tornado-dataset",
   "version": "1.0.0",
   "scripts": {
-    "build": "node src/generate.js > data/data.jsonl"
+    "update": "node src/generate.js > data/tornadoes.jsonl"
   },
   "keywords": [],
   "author": "",
