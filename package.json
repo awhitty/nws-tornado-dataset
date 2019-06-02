@@ -1,0 +1,17 @@
+{
+  "name": "spc-noaa-tornado-dataset",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node src/generate.js > data/data.jsonl"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lodash": "^4.17.11",
+    "luxon": "^1.16.0",
+    "node-gzip": "^1.1.2",
+    "papaparse": "^5.0.0"
+  }
+}
