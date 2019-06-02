@@ -26,6 +26,6 @@ For more information on what these fields mean, feel free to peruse the generati
 
 No promises that this repo will be kept up-to-date. If you need a fresh copy of the data, feel free to update it yourself.
 
-Running `npm install && npm run update` should recreate the `data/tornadoes.jsonl` file
+Running `npm install && npm run update` should recreate the `data/tornadoes.jsonl` file.
 
 The `src/` folder contains the scripts used to produce the file.
